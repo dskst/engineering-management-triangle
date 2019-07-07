@@ -8,5 +8,5 @@
 |Architecuture|プロダクトを構成するアーキテクチャ全般。|
 |Technical Leadership|技術的側面からプロダクトをリードする。|
 |Process Management|サービスインに至るまでのプロセスそのものをマネジメントする。|
-|QCD Management|クオリティ、コスト、デリバリーをマネジメントする。|
+|Quality Assurance|ニーズ、期待、要求にプロダクトが適合していることを保証する。|
 |DevOps|運用と開発を親和させて、プロダクトをより良くしていく。|
