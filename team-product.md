@@ -8,5 +8,5 @@
 |Team Design|プロダクト組織を設計、構築する。|
 |Product Roadmap|プロダクトの方向を明確にする。|
 |Team Development|プロダクト組織改善、開発を行っていく。|
-|Budget Planning|ヒューマンリソースを管理する。|
+|Resource Management|ヒト、モノ、カネなどの資源を管理する。|
 |Stakeholder Engagement|ステークホルダーのエンゲージメントを高める。|
