@@ -15,7 +15,9 @@ Engineering Management Triangle とは、 Engineering Manager の役割をグラ
 
 ## Role
 
-![engineering-management-triangle_role](https://user-images.githubusercontent.com/10830352/60770185-39f02200-a113-11e9-93b8-ba26174b239d.jpg)
+![engineering-management-triangle_role](https://user-images.githubusercontent.com/10830352/61178646-00944680-a62c-11e9-9945-42b8ca4456c6.jpg)
+
+3つの軸とその間を埋める空白領域に、 Engineering Manager の役割を見出すことができます。
 
 - [Product - Technology](/product-technology.md)
 - [Technology - Team](technology-team.md)
