@@ -4,7 +4,7 @@
 
 |Role|Description|
 |:-:|:-:|
-|Product|プロダクトのビジュアル的なデザインだけではなく、技術のデザインも含まれる。|
+|Product Design|プロダクトのビジュアル的なデザインだけではなく、技術のデザインも含まれる。|
 |Architecuture|プロダクトを構成するアーキテクチャ全般。|
 |Technical Leadership|技術的側面からプロダクトをリードする。|
 |Process Management|サービスインに至るまでのプロセスそのものをマネジメントする。|
