@@ -1,6 +1,6 @@
 # Engineering Management Triangle
 
-*Engineering Manger Meetup organization に引っ越しました*  
+**Engineering Manger Meetup organization に引っ越しました**  
 https://github.com/engineering-manager-meetup/engineering-management-triangle
 
 Engineering Management Triangle は [engineering-manager-meetup](https://github.com/engineering-manager-meetup) がメンテナンスを行います。  
