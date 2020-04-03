@@ -1,5 +1,13 @@
 # Engineering Management Triangle
 
+*community organization に引っ越しました*
+https://github.com/engineering-manager-meetup/engineering-management-triangle
+
+Engineering Management Triangle は [engineering-manager-meetup](https://github.com/engineering-manager-meetup) がメンテナンスを行います。  
+本Repositoryの内容は最新ではございませんのでご注意ください。
+
+***
+
 Engineering Management Triangle とは、 Engineering Manager の役割をグラフィックモデル化したものです。中心にエンジニアリングを置いて、テクノロジー、プロダクト、チームでトライアングルを構成しています。
 
 ## Axis 
